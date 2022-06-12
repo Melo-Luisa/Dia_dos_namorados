@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    text-align: center;
+}
+.button{
+    border: none;
+    border-radius: 40px;
+    text-align: center;
+    padding: 20px;
+    margin: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    position: none;
+   
+}
+#mostra{
+    margin-bottom: -35px;
+    border: none;
+    border-radius: 60px;
+    color: #111111;
+    width: 400px;
+    padding: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+}
+#rodape{
+    width: 50px;
+}
