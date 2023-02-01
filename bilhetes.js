@@ -8,7 +8,7 @@ var mostra = document.querySelector('#mostra');
 function BilheteSorteado(){
     var sortear = bilhetes[Math.floor(Math.random()*bilhetes.length)];
     BilheteSorteado = sortear;
-    console.log(sortear); //mostra no console
+ 
     //document.write(BilheteSorteado) //abre numa nova page
     //return sortear - retorna a função e n mostra na saida
     mostra.value = sortear //o valor é mostrado na saida
